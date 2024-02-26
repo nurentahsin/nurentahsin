@@ -1,10 +1,10 @@
-[![MasterHead](https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://github.com/ShamsurRahmanShishir)
+[![MasterHead](https:///images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0)](https://github.com/nurentahsin/nurentahsin)
 
 <h1 align="center">Hi 👋, I'm Nuren Tahsin</h1>
 <img align="right" alt="Coding" width="400" src="https://www.iss.nus.edu.sg/images/default-source/default-album/software-dev.jpg?Status=Master&sfvrsn=aa8aa05f_0">
 <h3 align="center">A passionate Django developer and an electrical engineer from Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamsurrahmanshishir&label=Profile%20views&color=0e75b6&style=flat" alt="shamsurrahmanshishir" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/@shamsurrahmans2" target="blank"><img src="https://img.shields.io/twitter/follow/@shamsurrahmans2?logo=twitter&style=for-the-badge" alt="@shamsurrahmans2" /></a> </p>
 
